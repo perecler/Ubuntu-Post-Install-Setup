@@ -1,10 +1,8 @@
-# Ubuntu-Post-Install-Setup
-Script de post-instalación para Ubuntu que permite seleccionar e instalar un conjunto de aplicaciones y configuraciones de forma automatizada, con interfaz gráfica GTK3 y modo terminal (CLI). 
-Aunque me baso en guías de implementación y recomendaciones, se trata de una selección de aplicaciones para mi uso particular, tal vez no sean las adecuadas para tu sistema. De todos modos, te permite seleccionar o deseleccionar las que no interesen.
-
 # 🚀 Ubuntu Post-Install Setup
 
-Script de post-instalación para Ubuntu que permite seleccionar e instalar un conjunto de aplicaciones y configuraciones de forma automatizada, con interfaz gráfica GTK3 y modo terminal (CLI).
+Cada vez que instalo Ubuntu de cero me encuentro con la misma rutina: repositorios, PPAs, ajustes de gsettings, añadir líneas al .zshrc… Así que decidí automatizarlo de una vez.
+Esta aplicación presenta una lista de aplicaciones y configuraciones, todas seleccionadas por defecto. El usuario decide qué quitar antes de confirmar.
+Aunque me baso en guías de implementación y recomendaciones, se trata de una selección de aplicaciones para mi uso particular, tal vez no sean las adecuadas para tu sistema.
 
 ---
 
